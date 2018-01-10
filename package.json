@@ -1,5 +1,5 @@
 {
-  "name": "matrix-generator",
+  "name": "int-matrix-generator",
   "version": "0.0.0",
   "description": "A tool to generate matrix of random integer with line and column number.",
   "main": "index.js",
