@@ -1,0 +1,24 @@
+{
+  "name": "matrix-generator",
+  "version": "0.0.0",
+  "description": "A tool to generate matrix of random integer with line and column number.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/matrix-generator.git"
+  },
+  "keywords": [
+    "matrix",
+    "random",
+    "integer"
+  ],
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/matrix-generator/issues"
+  },
+  "homepage": "https://github.com/cedced19/matrix-generator#readme",
+  "dependencies": {
+    "random-int": "^1.0.0"
+  }
+}
